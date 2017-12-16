@@ -2,3 +2,12 @@
     text-shadow: 2px 2px 8px #212121;
 
 }
+.profile{
+    padding-top: 5%;
+}
+.contato p, .contato strong{
+    display: inline;
+}
+.contato .celular{
+    margin-top: 3%;
+}
