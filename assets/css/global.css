@@ -11,3 +11,14 @@
 .contato .celular{
     margin-top: 3%;
 }
+
+.card-panel{
+    height: 200px;
+}
+.card-panel img{
+    max-height: 100%;
+}
+
+#react-native{
+    margin-top: 60px;
+}
